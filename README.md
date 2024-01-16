@@ -7,20 +7,28 @@
 - 프로젝트 소개
   - ㅇㅇ
   - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project1)
 
 ### 02. 
+- 2022년도 1학기 '데이터시각화' 수업 개인 프로젝트
+- 프로젝트 소개
+  - ㅇㅇ
+  - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project2)
 
 ### 03. 제주도 도로 교통량 예측 AI 경진대회(2022)
 - 2022년도 2학기 '머신러닝' 수업 팀 프로젝트
 - 프로젝트 소개
   - ㅇㅇ
   - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project3)
 
 ### 04. 경기도 GenAI·공공데이터 창업경진대회(2023)
 - 2023.05 ~ 2023.06
 - 프로젝트 소개
   - ㅇㅇ
   - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project4)
 
 ### 05. 지역사회 문제해결형 빅데이터/AI활용 공모전(2023)
 - 2023.12
