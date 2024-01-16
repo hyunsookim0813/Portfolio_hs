@@ -39,8 +39,8 @@
 - [프로젝트 GitHub](https://github.com/suy379/Goyang_fifteen) / [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/%EA%B3%A0%EC%96%91%EC%8B%9C_%ED%94%BC%ED%94%84%ED%8B%B4_%EC%9E%85%EC%A7%80%EB%B6%84%EC%84%9D_YEONS_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 
-### 06. 한국어 문서 추출요약 프로젝트(2020)
-- 2020년도 2학기 '데이터마이닝(2)' 수업 팀 프로젝트
+### 06. 배달 주문 건수 예측 프로젝트(2023)
+- 2023년도 1학기 'R응용' 수업 개인 프로젝트
 - 프로젝트 소개
-  - 데이콘에서 주최한 각 뉴스 기사 원문 데이터에서 3개의 중요한 문장을 추출하는 한국어 문서 추출요약 프로젝트 
-- [분석 보고서 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/2020-2_%EB%94%94%EC%BD%94%EB%8D%94_%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+  - 증가하는 추세의 2030세대의 배달 건수 예측을 통해 효율적 경영전략 제공을 위한 프로젝트
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project6)
