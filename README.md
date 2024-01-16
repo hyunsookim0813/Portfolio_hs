@@ -42,3 +42,9 @@
 - 프로젝트 소개
   - 증가하는 추세의 2030세대의 배달 건수 예측을 통해 효율적 경영전략 제공을 위한 프로젝트
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project6)
+
+### 07. 해당 직무 관련 프로젝트(2024)
+- 2024.01
+- 프로젝트 소개
+  - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project7)
