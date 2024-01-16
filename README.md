@@ -1,46 +1,50 @@
 ## Hyunsoo Kim's project portfolio
-빅데이터 전문가를 꿈꾸는 **김현수**의 프로젝트 포트폴리오입니다.
+데이터 사이언티스트를 꿈꾸는 **김현수**의 프로젝트 포트폴리오입니다.
 
 ---
-### 01. 관광지 리뷰 데이터를 활용한 분류 모델링 및 관광지별 특징 추출(2019)
-- 2019년도 1학기 Growth Hackers 내부 프로젝트
+### 01. CCTV 영상분석을 통한 도시침수 조기감지 서비스(2022)
+- 2022.07 ~ 2022.08
 - 프로젝트 소개
-  - 서울의 유명 관광지를 선정, TripAdvisor 내 영어 리뷰를 크롤링해 관광지 리뷰 데이터를 바탕으로 해당 리뷰가 긍정 리뷰인지, 부정 리뷰인지 분류하는 모델링
-  - 긍정, 부정 리뷰들을 바탕으로 외국인 관광객이 해당 관광지에 어떤 매력이 있다고 생각하는지, 그리고 어떤 불편함이 있다고 생각하는지 워드클라우드, 토픽 모델링으로 알아보았음
-- [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/2019-1_GH_%EB%82%B4%EB%B6%80%ED%94%8C%EC%A0%9D_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
+  - ㅇㅇ
+  - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project1)
 
-
-### 02. SOCAR 고객 정보 데이터를 활용한 마케팅 전략 개발(2019)
-- 2019.07.~08.
-- 프로젝트 소개 
-  - 쏘카의 운영 데이터를 분석하여, 보다 효율적인 사업 운영을 위한 인사이트를 도출하는 프로젝트
-  - 특정 zone의 차종 비율 가설검정, 클러스터링을 활용한 User의 패턴 나누기, 패턴을 활용하여 특정 이용 패턴에 할증을 적용하는 시나리오 구성 및 시뮬레이션
-- [프로젝트 GitHub](https://github.com/suy379/19_summer)
-
-
-### 03. 맥주 추천 알고리즘 개발 프로젝트(2019)
-- 2019년도 2학기 '통계학세미나' 수업 팀 프로젝트
+### 02. 
+- 2022년도 1학기 '데이터시각화' 수업 개인 프로젝트
 - 프로젝트 소개
-  - 머신러닝 기법과 딥러닝 기법을 활용하여, 개인에게 맞춤형 맥주를 추천해줄 수 있는 맥주 추천 알고리즘 개발
-- [프로젝트 GitHub](https://github.com/statseminar/Beer-recommendation-system) / [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/2019-2_%EB%A7%A5%EC%A3%BC_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C(%EC%99%84%EC%84%B1%EB%B3%B8).pdf)
+  - ㅇㅇ
+  - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project2)
 
-
-### 04. IGA Works 광고 채널 기여도 분석 모델 연구 (2019)
-- 2019년도 2학기 Growth Hackers X IGA Works 외부 프로젝트
+### 03. 제주도 도로 교통량 예측 AI 경진대회(2022)
+- 2022년도 2학기 '머신러닝' 수업 팀 프로젝트
 - 프로젝트 소개
-  - 광고주에게 매체별 기여도가 어떤지를 알려주는 IGA Works 사의 data-driven attribution 모델 연구 프로젝트
-  - 고객의 접속 path 구축 및 최종 매체별 기여도 판단을 위해 기존에 사용되는 single-touch 방법 이외의 multi-touch 방법인 Shapely와 Markov 모델 적용
+  - ㅇㅇ
+  - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project3)
 
-
-### 05. 고양시 자전거대여소 입지 분석 공모전 -장려상 수상(2020)
-- 2020.07.~08.
+### 04. 경기도 GenAI·공공데이터 창업경진대회(2023)
+- 2023.05 ~ 2023.06
 - 프로젝트 소개
-  - COMPAS에서 주최한 고양시 자전거대여소(피프틴)의 새로운 장소를 데이터로 도출하는 입지 분석 프로젝트
-- [프로젝트 GitHub](https://github.com/suy379/Goyang_fifteen) / [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/%EA%B3%A0%EC%96%91%EC%8B%9C_%ED%94%BC%ED%94%84%ED%8B%B4_%EC%9E%85%EC%A7%80%EB%B6%84%EC%84%9D_YEONS_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+  - ㅇㅇ
+  - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project4)
 
+### 05. 지역사회 문제해결형 빅데이터/AI활용 공모전(2023)
+- 2023.12
+- 프로젝트 소개
+  - 대전광역시에서 수집할 수 있는 공공데이터를 사용해 사회 현안을 풀 수 있는 머신러닝 모델을 구축하는 경진대회
+  - 대전시 대중교통 통행수요 예측
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project5)
 
 ### 06. 배달 주문 건수 예측 프로젝트(2023)
 - 2023년도 1학기 'R응용' 수업 개인 프로젝트
 - 프로젝트 소개
   - 증가하는 추세의 2030세대의 배달 건수 예측을 통해 효율적 경영전략 제공을 위한 프로젝트
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project6)
+
+### 07. 해당 직무 관련 프로젝트(2024)
+- 2024.01
+- 프로젝트 소개
+  - ㅇㅇ
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project7)
