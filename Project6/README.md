@@ -1,7 +1,7 @@
 # 2030세대의 주문건수 예측
+<!---
 <img width="889" alt="스크린샷 2023-04-02 오후 4 54 28" src="https://user-images.githubusercontent.com/123061697/229340025-a5a03798-7395-49f3-ba57-63ae8b46c17f.png" width="10" height="250">
-
------
+-->
 
 ## INDEX
 
