@@ -9,11 +9,10 @@
   - CCTV 영상 및 하천의 유량, 강수량 등의 API를 기반으로 침수 예측 서비스 제공
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project1)
 
-### 02. 
+### 02. 배달 음식 주문 데이터 분석 프로젝트(2022)
 - 2022년도 1학기 '데이터시각화' 수업 개인 프로젝트
 - 프로젝트 소개
-  - ㅇㅇ
-  - ㅇㅇ
+  - 맑은 날과 비가 오는 날의 평균 배달 음식 주문 수 비교 시각화 프로젝트
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project2)
 
 ### 03. 제주도 도로 교통량 예측 AI 경진대회(2022)
