@@ -42,8 +42,8 @@
   - 증가하는 추세의 2030세대의 배달 건수 예측을 통해 효율적 경영전략 제공을 위한 프로젝트
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project6)
 
-### 07. 해당 직무 관련 프로젝트(2024)
+### 07. 서울시 상권 분석 시각 프로젝트(2024)
 - 2024.01
 - 프로젝트 소개
-  - ㅇㅇ
+  - 서울시 상권 시각화 서울시 공공데이터를 통해 태블로로 시각화로 상권분석
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project7)
