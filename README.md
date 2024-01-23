@@ -43,7 +43,7 @@
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project6)
 
 ### 07. 서울시 상권 분석 시각 프로젝트(2024)
-- 2024.01
+- 2024.01 태블로 활용 개인 프로젝트
 - 프로젝트 소개
   - 서울시 상권 시각화 서울시 공공데이터를 통해 태블로로 시각화로 상권분석
 - [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project7)
