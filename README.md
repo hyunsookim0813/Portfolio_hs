@@ -46,4 +46,4 @@
 - 2024.01 태블로 활용 개인 프로젝트
 - 프로젝트 소개
   - 서울시 공공데이터를 통해 서울시 상권분석 및 태블로를 활용한 대시보드 생성
-- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project7)
+- [프로젝트 GitHub](https://github.com/hyunsookim0813/Portfolio_hs/tree/main/Project6)
