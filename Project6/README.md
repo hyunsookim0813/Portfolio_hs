@@ -26,7 +26,7 @@ Python, Tableau
 
 🔻 태블로 시각화 링크 
 
-[대시보드](https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638)
+[대시보드](https://public.tableau.com/app/profile/hyunsoo.kim0813/viz/__17087871747590/sheet9?publish=yes)
 
 ### 기여한 부분
 
@@ -39,8 +39,9 @@ Python, Tableau
 2. 태블로를 통해 서로 연관되는 정보들을 대시보드로 다양하게 구현해보는 경험을 해보았음.
 
 
-![image](https://github.com/hyedall/visualization-of-commercial-districts-in-seoul/assets/106393197/5a1ce4e6-e6b6-4b50-9ff1-1808527116c1)
-![image](https://github.com/hyedall/visualization-of-commercial-districts-in-seoul/assets/106393197/280c63e1-1f43-47c2-afbb-6f9c9dfdac92)
+![image](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/802d973d-8ac2-4f20-a7ff-c3da44c206c4)
+
+![image](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/29b5c7b5-0452-4cc4-bc09-ab8f931e6e88)
 
 
 
