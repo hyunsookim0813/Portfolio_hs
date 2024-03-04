@@ -1,6 +1,4 @@
-# 즐기는 노인들 (데이터 청년 캠퍼스 1분반 4조)
-- For Data Youth Campus(2023, SMU) in Korea.
-- 'Indicator for old people(seniors) in Seoul'
+# 앗차! (2023년 경기도 GenAI.공공데이터 창업경진대회)
   
 ---
 
@@ -69,15 +67,11 @@
   - 모든 가공된 데이터는 csv 확장자로 저장되었습니다.
   - [Data_in_Code] 폴더에서 확인이 가능합니다.
   - [Processing] 폴더에서 전처리 과정이 확인 가능합니다.
-
+**이거는 생략**
 ---
 
 ## 5. 참고 (Refrences)
-<img width="908" alt="스크린샷 2023-11-08 오후 3 35 04" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/48cc90bb-9c84-4622-86ab-7810bc3c15b0">
-<img width="910" alt="스크린샷 2023-11-08 오후 3 35 28" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/699ca757-07a2-440e-876d-f8eff2d38360">
-<img width="910" alt="스크린샷 2023-11-08 오후 3 35 40" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/033590ef-b1b5-4780-aa3c-a0e4a4d72331">
-<img width="910" alt="스크린샷 2023-11-08 오후 3 35 54" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/6f6b2591-b0c8-4b14-b44b-3f7208f04fc7">
-
+참고할 이미지 같은거 2개 정도 찍어서 올리고 
 ---
  
 ## 6. 프로젝트 참여 인원 & Support
