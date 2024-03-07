@@ -30,8 +30,8 @@
 
 - 비가 오는 날 배달 음식 주문량은 증가할까?
     
-    ![output.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e62146ac-e6f2-425f-b60d-69c847aa67e1/df5c52fc-1389-45b7-88a6-4dd9380f04ea/output.png)
-    
+    ![output](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/7e9ba5c9-f025-4ad1-af0c-da018401f185)
+
 - 검정
     
     T-검정 결과:
@@ -43,10 +43,10 @@
     
 - 연휴 기간과 평일 배달 음식 주문량의 차이
     
-    ![output.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e62146ac-e6f2-425f-b60d-69c847aa67e1/8141e34f-5d11-4ada-ad26-c417a2720c42/output.png)
-    
+    ![output1](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/7dc08244-7bbe-4459-85f3-c5ec9ddcc488)
+
 - 시간대별 배달 음식 주문량 패턴
     
-    ![output.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e62146ac-e6f2-425f-b60d-69c847aa67e1/c58cbd7d-1952-42b3-90e2-2957c67924e4/output.png)
-    
+    ![output2](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/f86e3b38-ee0b-4da8-badf-ec11050a316f)
+
 - 피크타임 음식 카테고리 분포
