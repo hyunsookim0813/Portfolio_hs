@@ -1,6 +1,39 @@
-# 앗차! (2023년 경기도 GenAI.공공데이터 창업경진대회)
-  
+## 2023년 경기도 GenAI.공공데이터 창업경진대회
+
+`앗차!`  
+
 ---
+
+### 1. 프로젝트 목적 및 배경
+
+#### 목적
+- 생성형AI 및 공공데이터를 활용한 창의적 아이디어 기획 프로젝트
+
+#### 배경
+- 교통 데이터 수집과 분석을 통해 최적의 루틴 추천하는 서비스 기획
+- 어린이 보호 구역등 인명사고 방지를 위한 경고 서비스를 통해 안전환경 조성 기획
+
+---
+### 2. About Raw data
+ - ### Sources
+   - [서울시 열린데이터광장](https://data.seoul.go.kr/)
+   - [대한민국 행복지도](http://www.happykorea.re.kr/)
+ - ### Raw_data
+   - [Raw_data] 폴더를 통해 프로젝트에 사용된 Raw_data 확인이 가능합니다.
+---
+
+### 3. 참고 (Refrences)
+참고할 이미지 같은거 2개 정도 찍어서 올리고 
+
+---
+
+## 4. 프로젝트 참여 인원 
+- 김현수(역할)
+- 오태훈(역할)
+- 서경대1(역할)
+- 서경대2(역할)
+
+
 
 ## 1. 프로젝트 목적 및 배경
   ### 목적
@@ -17,65 +50,4 @@
   - 노인층에 대한 여가 관련 지표가 설문 결과이거나, 다양한 환경적 요소를 고려하지 못한 1차원적 지표인 경우가 많았습니다.
     여가와 관련된 다양한 환경 요소를 종합적으로 고려한 지표를 통해 자치구별 여가 수준을 한눈에 파악하고자 합니다.
 
----
 
-## 2. About main.ipynb
- - ### Requirements
-   - Main 파일은 ipynb 확장자로, 원할한 확인을 위해서는 Jupyter Notebook 이나, Jupyter Lab 사용을 권장드립니다.
-   - Pyhthon version 3.9.x 
-   - Used Libraries
-     - Pandas
-     - Matplotlib, Seborn
-     - Numpy
-     - OS
-     - encoding UTF-8 or CP949
- - ### Used Python IDE
-   - [Google Colab]
-   - [JupyterLab & Notebook]
-   - [Pycharm]
- - ### Variables
-   각 csv 파일은 조원별 EDA 및 최종 전처리를 완료하였습니다.  
-   Data_in_Code 폴더에서 확인 가능합니다.  
-    -df_1 = 자치구별 노인 건강(음주 여부 구분).csv  
-    -df_2 = 교통편의.csv  
-    -df_3 = 자치구노인인구수_독거포함_최종.csv  
-    -df_4 = 자치구별여가시설수_4차.csv  
-    -df_5 = 자치구별 만족도.csv  
-    -df_6 = 자치구별노인인구수비율.csv  
-    -df_7 = 노인 월평균 소득+공시지가.csv
-      &nbsp; </br>  
-   2번부터, 여가시설수 -> 노인인구 -> 노인건강 -> 노인소득 ->  교통편의 순으로 코드가 존재하며,  
-   각각의 .3. .4. 항목의 마지막줄에서 가중치 확인이 가능합니다.
-    &nbsp;  </br>  
-   프로젝트 내에서 채택한 OLS의 가중치는 그 중 .4. 항목입니다.
-- ### others
-    - code 내 회귀분석은 편의상 OLS로, 차원축소는 편의상 PCA로 표기하였습니다.
-    - 8번 항목에서 채택한 OLS의 모델 검증 결과를 볼 수 있습니다. 설명력으로 사용한 지표는 F-statistic 과  Prob F-statistic입니다.
-
----
-
-## 3. About Raw data
- - ### Sources
-   - [서울시 열린데이터광장](https://data.seoul.go.kr/)
-   - [대한민국 행복지도](http://www.happykorea.re.kr/)
- - ### Raw_data
-   - [Raw_data] 폴더를 통해 프로젝트에 사용된 Raw_data 확인이 가능합니다.
-
----
-
-## 4. About Processed Data
-  - 모든 가공된 데이터는 csv 확장자로 저장되었습니다.
-  - [Data_in_Code] 폴더에서 확인이 가능합니다.
-  - [Processing] 폴더에서 전처리 과정이 확인 가능합니다.
-**이거는 생략**
----
-
-## 5. 참고 (Refrences)
-참고할 이미지 같은거 2개 정도 찍어서 올리고 
----
- 
-## 6. 프로젝트 참여 인원 & Support
-- 김현수
-- 오태훈
-- 서경대1
-- 서경대2
