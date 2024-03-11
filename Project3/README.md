@@ -20,7 +20,7 @@
 ### 2. 데이터 출처 및 설명
  - ### 출처
    - [제주도 도로 교통량 예측 AI 경진대회](https://dacon.io/competitions/official/235985/overview/description)
-   - [데이터](https://dacon.io/competitions/official/235985/data)
+   - [공공데이터포털](https://www.data.go.kr/index.do)
 
 ### 3. 참고 (Refrences)
 참고할 이미지 같은거 2개 정도 찍어서 올리고 
