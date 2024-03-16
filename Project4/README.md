@@ -25,7 +25,10 @@
    - [판교제로시티 CCTV 데이터 제로셔틀 경로추적 조회](https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=2&rows=10&sortColumn=&sortDirection=&infId=E1ZM1WF65YZ5NW0RCJMQ31892174&infSeq=1&order=)
      
 ### 3. 참고 (Refrences)
-참고할 이미지 같은거 2개 정도 찍어서 올리고 
+![image](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/11061031-d376-4737-87b0-c592fd65b004)
+
+![image](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/fb204a74-df21-4621-9dda-39f319ca8b1a)
+
 
 ### 4. 프로젝트 참여 인원 
 - 오태훈(팀장, 풀스택)
@@ -34,5 +37,10 @@
 - 조민선(팀원, 기획, 보고서작성)
 
 ### 5. 한계점 및 회고
-1달여간의 기간동안 열심히 회의를 하며 준비를 했지만 입상은 하지 못하여 아쉬웠던 대회였다
+1달여간의 기간동안 열심히 회의를 하며 준비를 했지만 입상은 하지 못하여 아쉬웠던 대회였다.
+
+비슷한 아이디어로 유사한 사업 아이템들이 이미 시장에 존재했지만,
+생성형 AI를 활용해서 차별점과 부족한 데이터의 수를 확보하여 검출의 정확도를 올렸지만 뚜렷한 느낌은 없다고 생각이 든다.
+
+학부생으로 생활하며 교수님들은 항상 잘하고 있다고 하지만 타학교 학생들과 함께하며 많은 것을 느꼈다.
 
