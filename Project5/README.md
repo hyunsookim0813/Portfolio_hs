@@ -25,14 +25,16 @@
      - ALIGHT_DEMAND: 하차 수요
 
 ### 3. 참고 (Refrences)
-참고할 이미지 같은거 2개 정도 찍어서 올리고 
+![image](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/efe089a5-8ad8-4c52-9792-8397bb3b4216)
 
-### 4. 프로젝트 참여 인원 및 기술 스택
+![image](https://github.com/hyunsookim0813/Portfolio_hs/assets/100894661/7a0b444c-51b9-4e32-b399-19ab4d8048d6)
+
+
+### 4. 프로젝트 참여 인원
 - 김현수(개인프로젝트)
-- Python
 
 ### 5. 한계점 및 회고
-해당 공모전을 준비을 한 기간이 하루밖에 되지 않아 다양한 방법을 시도하지 못하여 아쉬웠음
+해당 공모전을 준비을 한 기간이 하루 밖에 되지 않아 다양한 방법을 시도하지 못하여 아쉬웠음
 
 DACON의 공모전에 참여하면서 평가산식이 MAE인 정량적인 예측은 주로 AUTOGLUON이라는 모델이 성능이 좋다는 것을 알고 있었기에 이를 주로 사용했음
 
