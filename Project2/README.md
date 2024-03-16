@@ -13,7 +13,7 @@
 
 ### 2. 데이터 출처 및 설명
  - ### 출처
-   - [KT 통신 빅데이터 플랫](https://www.bigdata-telecom.kr/invoke/SOKBP0000/?ver=3.0)
+   - [KT 통신 빅데이터 플랫폼](https://www.bigdata-telecom.kr/invoke/SOKBP0000/?ver=3.0)
    - [날씨별 배달 품목차이
 ](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWTHRDLVRDF)
 
